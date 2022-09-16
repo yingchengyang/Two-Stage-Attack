@@ -1,0 +1,13 @@
+language: python
+python:
+  - "3.7"
+install:
+  - pip install --editable .
+  - cd examples 
+  - pip install -r requirements.txt
+  - pip install torchvision==0.6.0 torch==1.7.0
+  - cd ..
+script:
+  - cd tests
+  - python utils/download_models.py
+  - pytest 
