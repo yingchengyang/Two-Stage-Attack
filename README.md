@@ -20,7 +20,8 @@ The code of PPO is based on [ATLA](https://github.com/huanzhang12/ATLA_robust_RL
 If you find CPPO helpful, please cite our paper.
 
 ```
-@article{qiaoben2021understanding,
+@article{
+  qiaoben2021understanding,
   title={Understanding Adversarial Attacks on Observations in Deep Reinforcement Learning},
   author={Qiaoben, You and Ying, Chengyang and Zhou, Xinning and Su, Hang and Zhu, Jun and Zhang, Bo},
   journal={arXiv preprint arXiv:2106.15860},
