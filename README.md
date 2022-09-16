@@ -1,6 +1,6 @@
 # Two-Stage-Attack
 
-This is the official implementation for [Understanding Adversarial Attacks on Observations in Deep Reinforcement Learning](https://arxiv.org/abs/2106.15860).
+This is the official implementation for [Understanding Adversarial Attacks on Observations in Deep Reinforcement Learning](https://arxiv.org/pdf/2106.15860.pdf).
 
 Atari
 ======
