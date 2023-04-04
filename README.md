@@ -17,7 +17,7 @@ The code of PPO is based on [ATLA](https://github.com/huanzhang12/ATLA_robust_RL
 
 ## Citation
 
-If you find CPPO helpful, please cite our paper.
+If you find Two-Stage-Attack helpful, please cite our paper.
 
 ```
 @article{
